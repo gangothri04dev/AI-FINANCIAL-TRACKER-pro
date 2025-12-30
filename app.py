@@ -14,7 +14,7 @@ from auth import register_user, login_user, get_user_data
 
 # Set page configuration
 st.set_page_config(
-    page_title="AI Financial Dashboard Generator",
+    page_title="AI Financial Tracker",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
