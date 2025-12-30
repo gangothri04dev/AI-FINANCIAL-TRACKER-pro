@@ -83,7 +83,7 @@ if not st.session_state.logged_in:
                     st.error(message)
 else:
     # Title and introduction
-    st.title("AI Financial Dashboard Generator")
+    st.title("AI Financial Tracker")
     st.markdown("""
     This dashboard helps you visualize and analyze your financial data with interactive charts and AI-powered insights.
     Upload your financial data (CSV or Excel) to get started.
